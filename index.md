@@ -1,4 +1,6 @@
 # Welcome to my personal page
+![slika](/images/ja.png) 
+
 
 ## About me
 
