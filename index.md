@@ -6,8 +6,9 @@
 
 I am Julija Damjanovic a student  at faculty Mathematics in Belgrade, Serbia.
 ```
-
-
+## *** 
+[![GitHub Logo](/images/logo_git.png)](https://github.com/Julija-Damjanovic) 
+[![Instagram Logo](/images/logo_instagram.png)](https://www.instagram.com/julija.995/) 
 
 
 ## Skills
@@ -25,15 +26,15 @@ I am Julija Damjanovic a student  at faculty Mathematics in Belgrade, Serbia.
 * Microsoft Office 
 
 ## Interests 
-  :pizza:
-* :notes: 
-* :video_game:
-* :books:
-* :computer:
-* :earth_asia:
-* :art:
-* :sunrise_over_mountains:
-* :airplane:
+* Music 
+* Games  
+* Books 
+* Travelling
+* Art
+* Techonoligies
+* Haiking
+* Fitness
+* Photography
 
 
 ## Scientific interests 
