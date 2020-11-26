@@ -45,7 +45,7 @@ Game engerinering, Artificail intelligence, Machine learning, Data science
 
 ##  ***
 
-   **Interpesonal skills**          |
+   **Interpersonal skills**         |
 ------------------------------------|                         
 *Curiosity*                         |
 *Flexibility*                       |
