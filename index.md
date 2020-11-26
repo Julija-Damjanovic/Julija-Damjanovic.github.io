@@ -4,7 +4,7 @@
 
 ```markdown
 
-I am **Julija Damjanovic** a student  at faculty *Mathematics in Belgrade, Serbia*.
+I am Julija Damjanovic a student  at faculty Mathematics in Belgrade, Serbia.
 ```
 
 
@@ -25,6 +25,8 @@ I am **Julija Damjanovic** a student  at faculty *Mathematics in Belgrade, Serbi
 * Microsoft Office 
 
 ## Interests 
+
+```markdown
 * :notes: 
 * :video_game:
 * :books:
@@ -33,13 +35,13 @@ I am **Julija Damjanovic** a student  at faculty *Mathematics in Belgrade, Serbi
 * :art:
 * :sunrise_over_mountains:
 * :airplane:
+```
 
-
-## Scientific interests 
+### Scientific interests 
 Game engerinering, Artificail intelligence, Machine learning, Data science
 
 
-
+## 
    **Interpesonal skills**          |
 ------------------------------------|                         
 *Curiosity*                         |
