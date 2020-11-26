@@ -4,9 +4,7 @@
 
 ```markdown
 
-
-
-I am **Julija Damjanovic** a student  at faculty *Mathematics in Belgrade, Serbia*.
+ I am **Julija Damjanovic** a student  at faculty *Mathematics in Belgrade, Serbia*.
 
 
 
