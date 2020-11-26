@@ -5,5 +5,56 @@
 ```markdown
 
 I am **Julija Damjanovic** a student  at faculty *Mathematics in Belgrade, Serbia*.
+```
+
+
+
+
+## Skills
+* Linux 
+* C/C++
+* Matlab 
+* Java 
+* Python 
+* R 
+* HTML 
+* CSS 
+* XML 
+* Prolog
+* Haskell
+* Microsoft Office 
+
+## Interests 
+* :notes: 
+* :video_game:
+* :books:
+* :computer:
+* :earth_asia:
+* :art:
+* :sunrise_over_mountains:
+* :airplane:
+
+
+## Scientific interests 
+Game engerinering, Artificail intelligence, Machine learning, Data science
+
+
+
+   **Interpesonal skills**          |
+------------------------------------|                         
+*Curiosity*                         |
+*Flexibility*                       |
+*Always ready for team work*        |   
+*Kindness*                          |
+*Intuitive*                         | 
+*Enthusiastic and an active player* |
+**Languages know:**                 |  
+Serbian: Native                     | 
+English: Read,Write,Speak           |
+Russian: Read, Write, Speak         |
+
+
+
+
 
 
