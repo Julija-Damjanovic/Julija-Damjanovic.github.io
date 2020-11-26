@@ -25,7 +25,7 @@ I am Julija Damjanovic a student  at faculty Mathematics in Belgrade, Serbia.
 * Microsoft Office 
 
 ## Interests 
-:pizza:
+  :pizza:
 * :notes: 
 * :video_game:
 * :books:
@@ -41,6 +41,7 @@ Game engerinering, Artificail intelligence, Machine learning, Data science
 
 
 ##  ***
+
    **Interpesonal skills**          |
 ------------------------------------|                         
 *Curiosity*                         |
