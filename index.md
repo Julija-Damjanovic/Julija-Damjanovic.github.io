@@ -1,8 +1,9 @@
-## Welcome 
+# Welcome to my personal page
 
+## About me
 
-
-### Markdown
 ```markdown
-Syntax highlighted code block
+I am **Julija Damjanovic** a student  at faculty *Mathematics in Belgrade, Serbia*.
 
+
+ 
